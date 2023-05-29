@@ -1,0 +1,1074 @@
+[
+    {
+        "name": "Yellow Vest Movement (Gilets Jaunes)",
+        "coordinates": [2.3477187162899495, 48.85837373855616],
+        "logo": "https://i.redd.it/jibbe0mfa7321.png",
+        "article": "https://www.moderninsurgent.org/post/gilets-jaunes-yellow-vests-movement",
+        "status": "nonviolent",
+	"size": "very_small"
+    },
+    {
+        "name": "Donetsk People’s Republic (DPR)",
+        "coordinates": [37.797900929904436, 48.02032062720348],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Donetsk_People%27s_Republic.svg",
+        "article": "https://www.moderninsurgent.org/post/donetsk-people-s-republic-dpr",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Free Papua Movement (OPM)",
+        "coordinates": [138.1140607245304, -4.327631310088657],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Morning_Star_flag.svg",
+        "article": "https://www.moderninsurgent.org/post/free-papua-movement-opm",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "North Korean People's Liberation Front (NKPLF)",
+        "coordinates": [125.7379324455391, 39.039129607273765],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/North_Korean_People%27s_Liberation_Front_logo.jpg",
+        "article": "https://www.moderninsurgent.org/post/north-korean-people-s-liberation-front-nkplf",
+        "status": "nonviolent",
+	"size": "very_small"
+    },
+    {
+        "name": "Karen National Liberation Army (KNLA)",
+        "coordinates": [97.97515220125595, 16.982692444177523],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_the_KNLA.svg",
+        "article": "https://www.moderninsurgent.org/post/karen-national-liberation-army-knla",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Islamic State - Caucasus Province (IS-CP)",
+        "coordinates": [45.69531777373943, 43.37252318350709],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Logo_of_ISCP.png",
+        "article": "https://www.moderninsurgent.org/post/islamic-state-caucasus-province-is-cp",
+        "status": "inactive",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Women Democratic Front (WDF)",
+        "coordinates": [68.35610177994722, 25.39019294937058],
+        "logo": "https://wdfpk.org/wp-content/uploads/2020/02/wdf-logo-hero-6.png",
+        "article": "https://www.moderninsurgent.org/post/women-democratic-front-wdf",
+        "status": "nonviolent",
+	"size": "very_small"
+    },
+    {
+        "name": "All Burma Students' Democratic Front",
+        "coordinates": [96.17035546197106, 16.827406205207065],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fighting_peacock_flag.svg",
+        "article": "https://www.moderninsurgent.org/post/all-burma-students-democratic-front",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Myanmar People's Defence Force (PDF)",
+        "coordinates": [94.91367068943698, 24.307584623423704],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_PDF_Myanmar.svg",
+        "article": "https://www.moderninsurgent.org/post/myanmar-people-s-defence-force-pdf",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Naxalite Movement",
+        "coordinates": [83.48527187509312, 20.698425943427317],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/South_Asian_Communist_Banner.svg",
+        "article": "https://www.moderninsurgent.org/post/naxalite-movement",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "East Turkestan Liberation Organisation (ETLO)",
+        "coordinates": [85.74308322318255, 40.33584508698343],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kokbayraq_flag.svg",
+        "article": "https://www.moderninsurgent.org/post/east-turkestan-liberation-organisation-etlo",
+        "status": "nonviolent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Jammu and Kashmir Liberation Front (JKLF)",
+        "coordinates": [75.6424811099595, 33.652938560554986],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Jammu_Kashmir_Liberation_Front_flag.svg",
+        "article": "https://www.moderninsurgent.org/post/jammu-and-kashmir-liberation-front-jklf",
+        "status": "nonviolent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "People’s Mojahiden Organisation of Iran (PMOI/MEK)",
+        "coordinates": [51.33678430427351, 35.70301468326439],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/People%27s_Mujahedin_Organization_of_Iran_Logo.jpg",
+        "article": "https://www.moderninsurgent.org/post/people-s-mojahiden-organisation-of-iran-pmoi-mek",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Houthi Movement",
+        "coordinates": [44.1874137055769, 15.358922018745387],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ansarullah_Flag_Vector.svg",
+        "article": "https://www.moderninsurgent.org/post/houthi-movement",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Al-Qaeda in the Sinai Peninsula (AQSP)",
+        "coordinates": [33.744699165421, 29.907369387834013],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Jihad.svg",
+        "article": "https://www.moderninsurgent.org/post/al-qaeda-in-the-sinai-peninsula-aqsp",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Hasm Movement",
+        "coordinates": [31.23242384431984, 30.037598244005903],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/Logo_of_the_Hasm_Movement.jpg",
+        "article": "https://www.moderninsurgent.org/post/hasm-movement",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Hezbollah",
+        "coordinates": [35.48480678938505, 33.36822131653822],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Logo_of_the_Hezbollah.svg",
+        "article": "https://www.moderninsurgent.org/post/hezbollah",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Hay'at Tahrir al-Sham (HTS)",
+        "coordinates": [36.64209360079086, 35.93059973462643],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Hayat_Tahrir_al-Sham.svg",
+        "article": "https://www.moderninsurgent.org/post/hay-at-tahrir-al-sham-hts",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Free Syrian Army (FSA)",
+        "coordinates": [37.367551242491096, 36.06660622164236],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/05/Free_syrian_army_coat_of_arms.svg",
+        "article": "https://www.moderninsurgent.org/post/free-syrian-army-fsa",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "People’s Defense Units (YPG)",
+        "coordinates": [38.9977834788394, 35.95801104262139],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/People%27s_Protection_Units_Flag.svg",
+        "article": "https://www.moderninsurgent.org/post/yekîneyên-parastina-gel-ypg-people-s-defense-units",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Nineveh Plain Protection Units (NPU)",
+        "coordinates": [42.23248372308595, 36.220126117367506],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Emblem_of_the_Nineveh_Plain_Protection_Units.svg",
+        "article": "https://www.moderninsurgent.org/post/nineveh-plain-protection-units-npu",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Peshmerga",
+        "coordinates": [43.99228171232885, 36.18561344838884],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg",
+        "article": "https://www.moderninsurgent.org/post/peshmerga",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Komala Party of Iranian Kurdistan",
+        "coordinates": [47.13473491693141, 35.38491359915628],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/05/The_Official_Logo_Of_Komala.png",
+        "article": "https://www.moderninsurgent.org/post/komala-party-of-iranian-kurdistan",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Free Life Party of Kurdistan (PJAK)",
+        "coordinates": [46.29254323565742, 38.07211601743918],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Flag_of_Partiya_Jiyana_Azad_a_Kurdistanê.svg",
+        "article": "https://www.moderninsurgent.org/post/free-life-party-of-kurdistan-pjak",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Kurdish Hezbollah",
+        "coordinates": [41.12690739265977, 37.877901118988014],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kurdish_Hezbollah_flag.svg",
+        "article": "https://www.moderninsurgent.org/post/kurdish-hezbollah",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Marxist-Leninist Communist Party (MLKP)",
+        "coordinates": [37.37696589783015, 37.06363562060841],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/MLKP_Badge.svg",
+        "article": "https://www.moderninsurgent.org/post/marxist-leninist-communist-party-mlkp",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Kurdistan Worker's Party (PKK)",
+        "coordinates": [38.79409489791327, 37.16495814311991],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_Kurdistan_Workers%27_Party.svg",
+        "article": "https://www.moderninsurgent.org/post/the-kurdistan-worker-s-party-pkk",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Security Forces Command (SFC)",
+        "coordinates": [33.74259540837951, 35.25613359132857],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/a/ad/Güvenlik_Kuvvetleri_Komutanlığı_%28emblem%29.jpg",
+        "article": "https://www.moderninsurgent.org/post/security-forces-command-sfc",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Artsakh Defence Army (ADA)",
+        "coordinates": [46.76022224480064, 39.82321341909477],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/Artsakh_Defence_Army_logo.png",
+        "article": "https://www.moderninsurgent.org/post/artsakh-defence-army-ada",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Armed Forces of South Ossetia (AFSO)",
+        "coordinates": [44.11404547203596, 42.38279847847601],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Coat_of_arms_of_South_Ossetia.svg",
+        "article": "https://www.moderninsurgent.org/post/armed-forces-of-south-ossetia-afso",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Abkhazian Armed Forces (AAF)",
+        "coordinates": [41.05294059826748, 43.16121301983323],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_armed_formations_of_self-proclaimed_Republic_of_Abkhazia.png",
+        "article": "https://www.moderninsurgent.org/post/abkhazian-armed-forces-aaf",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Grey Wolves",
+        "coordinates": [32.8609415853856, 39.93222479960921],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/dc/Grey_Wolves_Logo.svg",
+        "article": "https://www.moderninsurgent.org/post/grey-wolves",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Revolutionary People's Liberation Party-Front (DHKP-C)",
+        "coordinates": [28.976084841825035, 41.00687712753727],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/DHKP.svg",
+        "article": "https://www.moderninsurgent.org/post/revolutionary-people-s-liberation-party-front-dhkp-c",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Azov Regiment",
+        "coordinates": [34.177747081525084, 45.26931849312728],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/AZOV_logo.svg",
+        "article": "https://www.moderninsurgent.org/post/azov-regiment",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Sheikh Mansur Battalion (SMB)",
+        "coordinates": [38.920553074926374, 48.22956280323166],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Insignia_of_the_Sheikh_Mansur_battalion.png",
+        "article": "https://www.moderninsurgent.org/post/sheikh-mansur-battalion-smb",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Revolutionary Action (Rev Dia)",
+        "coordinates": [30.846641027477197, 51.95121575187269],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Revolutionary_Action_emblem.svg",
+        "article": "https://www.moderninsurgent.org/post/revolutionary-action-rev-dia-rd",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Hoods Hoods Klan (HHK)",
+        "coordinates": [30.5260703425726, 50.436263928731506],
+        "logo": "https://static.wixstatic.com/media/c24061_bfd06707b0264c799c27fcd2af9de86e~mv2.png",
+        "article": "https://www.moderninsurgent.org/post/hoods-hoods-klan-hhk",
+        "status": "violent",
+	"size": "very_small"
+    },
+    {
+        "name": "Wagner Group",
+        "coordinates": [37.6191539582028, 55.74957773433265],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_the_Wagner_Group_%28official%29.svg",
+        "article": "https://www.moderninsurgent.org/post/wagner-group",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Cyber Partisans",
+        "coordinates": [27.55740014341168, 53.89920977450807],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/98/Belarus_Cyber_Partisans_logo.jpg",
+        "article": "https://www.moderninsurgent.org/post/cyber-partisans",
+        "status": "hacktivist",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Nordic Resistance Movement (NRM)",
+        "coordinates": [18.05758647951129, 59.32213034800904],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo_of_the_Nordic_Resistance_Movement.svg",
+        "article": "https://www.moderninsurgent.org/post/nordic-resistance-movement-nrm",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Armed Forces of the Pridnestrovian Moldovan Republic (AFPMR)",
+        "coordinates": [29.60291344602924, 46.844812184179645],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Emblem_of_the_armed_forces_of_Transnistria.svg",
+        "article": "https://www.moderninsurgent.org/post/armed-forces-of-the-pridnestrovian-moldovan-republic-afpmr",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "St. Pauli Football Club Ultras",
+        "coordinates": [9.967632811342943, 53.55469738325404],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/FC_St_Pauli_skull_and_crossbones.svg",
+        "article": "https://www.moderninsurgent.org/post/st-pauli-football-club-ultras",
+        "status": "nonviolent",
+	"size": "very_small"
+    },
+    {
+        "name": "Slovenski Branci",
+        "coordinates": [17.111785375862016, 48.14620113848511],
+        "logo": "https://static.wixstatic.com/media/c24061_840ac850166d4273af7327f262a67e23~mv2.png",
+        "article": "https://www.moderninsurgent.org/post/slovenski-branci",
+        "status": "inactive",
+	"size": "very_small"
+    },
+    {
+        "name": "Free Republic of Liberland",
+        "coordinates": [18.944601258738807, 45.68907243845381],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flag_of_Liberland.svg",
+        "article": "https://www.moderninsurgent.org/post/free-republic-of-liberland",
+        "status": "nonviolent",
+	"size": "very_small"
+    },
+    {
+        "name": "Kosovo Liberation Army (KLA)",
+        "coordinates": [21.163464813309684, 42.65445246147283],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Emblema_e_UÇK-së.svg",
+        "article": "https://www.moderninsurgent.org/post/kosovo-liberation-army-kla",
+        "status": "inactive",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Informal Anarchist Federation (FAI)",
+        "coordinates": [11.343011995699285, 44.494435697407006],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_de_la_FAI.svg",
+        "article": "https://www.moderninsurgent.org/post/informal-anarchist-federation-fai",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "National Liberation Front of Corsica (FLNC)",
+        "coordinates": [9.105820638019347, 42.07846928665007],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Corsica_and_FLNC_wordmark.svg",
+        "article": "https://www.moderninsurgent.org/post/national-liberation-front-of-corsica-flnc",
+        "status": "inactive",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Regional Committee for Viticultural Action (CRAV)",
+        "coordinates": [3.3596058258622055, 43.57123324098117],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Flag_of_Languedoc-Roussillon.svg",
+        "article": "https://www.moderninsurgent.org/post/regional-committee-for-viticultural-action-crav",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Generation Identity (GI)",
+        "coordinates": [4.834080051713088, 45.76239567213778],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Logo_of_Identitarian_Generation_2.svg",
+        "article": "https://www.moderninsurgent.org/post/generation-identity-gi",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Euskadi Ta Askatasuna (ETA)",
+        "coordinates": [-2.9361401257336324, 43.263441114179265],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/ETA_BASQUE.svg",
+        "article": "https://www.moderninsurgent.org/post/euskadi-ta-askatasuna-eta",
+        "status": "inactive",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Animal Liberation Front (ALF)",
+        "coordinates": [-1.2582336253813236, 51.75187530203661],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/ALF_logo.svg",
+        "article": "https://www.moderninsurgent.org/post/animal-liberation-front-alf",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Patriotic Alternative",
+        "coordinates": [-1.5414466940271567, 53.99178927738933],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Patriotic_Alternative.svg",
+        "article": "https://www.moderninsurgent.org/post/patriotic-alternative",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Irish National Liberation Army (INLA)",
+        "coordinates": [-5.929724810904211, 54.59604543904123],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Irish_National_Liberation_Army_%28INLA%29_Brigades_flag.png",
+        "article": "https://www.moderninsurgent.org/post/irish-national-liberation-army-inla",
+        "status": "inactive",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Association of Security Forces of Belarus (BYPOL)",
+        "coordinates": [28.08860111739928, 53.1810152960975],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/BYPOL._Аб%27яднанне_сілавікоў_Беларусі.png",
+        "article": "https://www.moderninsurgent.org/post/association-of-security-forces-of-belarus-bypol",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Ajnad al-Kavkaz",
+        "coordinates": [35.79003660405732, 35.533757246087916],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Ajnad_Al-Kavkaz_flag.svg",
+        "article": "https://www.moderninsurgent.org/post/ajnad-al-kavkaz",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Conspiracy of the Cells of Fire Nuclei (CCF)",
+        "coordinates": [22.94428878925438, 40.63750305042338],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Conspiracy_of_Fire_Nuclei%2C_Logo.jpg",
+        "article": "https://www.moderninsurgent.org/post/conspiracy-of-the-cells-of-fire-nuclei-ccf",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Golden Dawn (GD)",
+        "coordinates": [23.72838212529446, 37.99183465144859],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/17/Meandros_flag.svg",
+        "article": "https://www.moderninsurgent.org/post/golden-dawn-gd",
+        "status": "inactive",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Anarcho-Communist Combat Organisation (BOAK)",
+        "coordinates": [39.700432007023274, 47.234783961333186],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_the_Combat_Organization_of_Anarcho-Communists.svg",
+        "article": "https://www.moderninsurgent.org/post/anarcho-communist-combat-organisation-boak",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "National Resistance Front of Afghanistan (NRF)",
+        "coordinates": [69.78897746209888, 35.41120621737727],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_National_Resistance_Front_of_Afghanistan.svg",
+        "article": "https://www.moderninsurgent.org/post/national-resistance-front-of-afghanistan-nrf",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Communist Party of Burma (CPB)",
+        "coordinates": [98.81891086223732, 22.45818912058623],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/41/Communist_Party_of_Burma_logo.png",
+        "article": "https://www.moderninsurgent.org/post/communist-party-of-burma-cpb",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Abu Sayyaf (Islamic State - East Asia Province)",
+        "coordinates": [124.32535602802359, 7.421891678531082],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/ISIL_East_Asia.png",
+        "article": "https://www.moderninsurgent.org/post/abu-sayyaf-islamic-state-east-asia-province",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Islamic State Khorasan Province (ISK)",
+        "coordinates": [67.46457566487769, 31.25960075133995],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8b/ISIL_Khorasan.png",
+        "article": "https://www.moderninsurgent.org/post/islamic-state-khorasan-province-isk",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Honker Union",
+        "coordinates": [116.40918352663262, 39.90174298431158],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/1/16/Honker_Union_logo_%282%29.jpg",
+        "article": "https://www.moderninsurgent.org/post/honker-union",
+        "status": "hacktivist",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Patani United Liberation Organisation (PULO)",
+        "coordinates": [101.4195905614785, 6.7237689259617195],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Flag_of_Pattani.svg",
+        "article": "https://www.moderninsurgent.org/post/patani-united-liberation-organisation-pulo",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Lion's Den",
+        "coordinates": [35.24886204067009, 32.2212308506747],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lion%27s_Den_Emblem.png",
+        "article": "https://www.moderninsurgent.org/post/lions-den",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Mujahideen Shura Council in the Environs of Jerusalem",
+        "coordinates": [34.243250915271275, 31.28567159793135],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/AQMI_Flag_asymmetric.svg",
+        "article": "https://www.moderninsurgent.org/post/mujahideen-shura-council-in-the-environs-of-jerusalem",
+        "status": "inactive",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Ahrar al-Sharqiya",
+        "coordinates": [37.07724159553206, 36.235314313193854],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/3.-The-current-Ahrar-al-Sharqiya-logo.jpg",
+        "article": "https://www.moderninsurgent.org/post/ahrar-al-sharqiya-1",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Popular Front for the Liberation of Palestine (PFLP)",
+        "coordinates": [34.33285121724336, 31.38500261601969],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/Logo_of_PFLP.png",
+        "article": "https://www.moderninsurgent.org/post/popular-front-for-the-liberation-of-palestine-pflp",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Saraya Al-Mukhtar (SM)",
+        "coordinates": [50.54228275786029, 26.031055000910946],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/e/ee/MukhtarBrigade.jpg",
+        "article": "https://www.moderninsurgent.org/post/saraya-al-mukhtar",
+        "status": "violent",
+	"size": "very_small"
+    },
+    {
+        "name": "Syriac Union Party (SUP)",
+        "coordinates": [40.722057970128574, 36.05995313379969],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fb/Syriac_Union_Party_%28Syria%29_logo.svg",
+        "article": "https://www.moderninsurgent.org/post/syriac-union-party-sup-3",
+        "status": "violent",
+	"size": "very_small"
+    },
+    {
+        "name": "Hamas",
+        "coordinates": [34.46276117505538, 31.49837506420981],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/29/Hamas_حماس_logo.svg",
+        "article": "https://www.moderninsurgent.org/post/hamas",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Islamic State (IS/ISIS/ISIL)",
+        "coordinates": [40.65852421039664, 34.314413127964094],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/AQMI_Flag_asymmetric.svg",
+        "article": "https://www.moderninsurgent.org/post/islamic-state-is-isis-isil",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Yemeni National Resistance Forces (NRF)",
+        "coordinates": [42.979969010147485, 14.775197077390999],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/National_Resistance.jpg",
+        "article": "https://www.moderninsurgent.org/post/yemeni-national-resistance",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Shabiha",
+        "coordinates": [36.2756477178067, 33.508137518482535],
+        "logo": "https://static.wixstatic.com/media/c24061_d18943ede6774ef0b638a212c6d1dc94~mv2.png",
+        "article": "https://www.moderninsurgent.org/post/shabiha",
+        "status": "violent",
+	"size": "very_small"
+    },
+    {
+        "name": "Izz al-Din al-Qassam Brigades (IQB)",
+        "coordinates": [34.398051008340126, 31.43604397714877],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d8/Alqassam_logo.png",
+        "article": "https://www.moderninsurgent.org/post/izz-al-din-al-qassam-brigades",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "New Irish Republican Army (New IRA)",
+        "coordinates": [-7.3093666730200955, 54.995783893628065],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/StarryPlough.svg",
+        "article": "https://www.moderninsurgent.org/post/new-irish-republican-army-new-ira",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Niger Delta Avengers (NDA)",
+        "coordinates": [5.6845907045612885, 5.022348526565104],
+        "logo": "https://static.wixstatic.com/media/c24061_afec774c708c47a3a3ac8b33170c836e~mv2.png",
+        "article": "https://www.moderninsurgent.org/post/niger-delta-avengers-nda",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Arrow Boys",
+        "coordinates": [28.450763386643654, 4.993333532381286],
+        "logo": "https://static.wixstatic.com/media/c24061_deef8b8a30b543af8ee2e9d9ebf350e1~mv2.png",
+        "article": "https://www.moderninsurgent.org/post/arrow-boys",
+        "status": "violent",
+	"size": "very_small"
+    },
+    {
+        "name": "Islamic State Mozambique (ISM)",
+        "coordinates": [39.34310797534211, -12.429401088157013],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Jihad.svg/2880px-Flag_of_Jihad.svg.png",
+        "article": "https://www.moderninsurgent.org/post/islamic-state-mozambique-ism",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Islamic State in the Greater Sahara (ISGS)",
+        "coordinates": [0.24682253873071772, 14.949450703479792],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_of_ISGS.png",
+        "article": "https://www.moderninsurgent.org/post/islamic-state-in-the-greater-sahara-isgs",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Islamic State West Africa Province (ISWAP)",
+        "coordinates": [12.47628970773894, 11.430659177288518],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/1/17/ISIL_West_Africa.png",
+        "article": "https://www.moderninsurgent.org/post/islamic-state-west-africa-province-iswap",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Islamic State in Libya (ISL)",
+        "coordinates": [13.451042054919, 26.15784409949635],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/1/10/ISIL_Libya.png",
+        "article": "https://www.moderninsurgent.org/post/islamic-state-in-libya-isl",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Rapid Support Forces (RSF)",
+        "coordinates": [32.55200075071057, 15.510952712812404],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Emblem_of_the_Rapid_Support_Forces.png",
+        "article": "https://www.moderninsurgent.org/post/rapid-support-forces-rsf-1",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Boko Haram (JAS Faction)",
+        "coordinates": [13.607831195739688, 13.592178224482462],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Boko_Haram_logo_%282002–15%29.png",
+        "article": "https://www.moderninsurgent.org/post/boko-haram-jas-faction",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Janjaweed",
+        "coordinates": [23.573855547084122, 14.196007116943251],
+        "logo": "https://static.wixstatic.com/media/c24061_fb937c71d45f4a8190e4446f3cc164df~mv2.jpg",
+        "article": "https://www.moderninsurgent.org/post/janjaweed",
+        "status": "inactive",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Mai-Mai Kata Katanga",
+        "coordinates": [25.34371689922819, -8.80284761786212],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Flag_of_Katanga.svg",
+        "article": "https://www.moderninsurgent.org/post/mai-mai-kata-katanga",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Anti-Balaka Militants",
+        "coordinates": [20.669225805721805, 5.758014213764477],
+        "logo": "https://static.wixstatic.com/media/c24061_2583ce588cdb47c78a3851c2857857d2~mv2.png/v1/fill/w_784,h_522,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c24061_2583ce588cdb47c78a3851c2857857d2~mv2.png",
+        "article": "https://www.moderninsurgent.org/post/anti-balaka-militants",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Tubu (Teda) Militias",
+        "coordinates": [19.577374607096274, 21.81004444037375],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Flag_of_the_Toubou_Front_for_the_Salvation_of_Libya.svg",
+        "article": "https://www.moderninsurgent.org/post/tubu-militias",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Afrikaner Weerstandsbeweging (AWB)",
+        "coordinates": [26.632495347057553, -26.863796907120296],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_the_Afrikaner-Weerstandsbeweging.svg",
+        "article": "https://www.moderninsurgent.org/post/afrikaner-weerstandsbeweging-awb",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Lord's Resistance Army (LRA)",
+        "coordinates": [27.27910608688422, 5.187402650975248],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Flag_of_Lord%27s_Resistance_Army.svg",
+        "article": "https://www.moderninsurgent.org/post/lords-resistance-army-lra",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Jama'at Nasr al-Islam wal Muslimin (JNIM)",
+        "coordinates": [-0.6339058571600243, 13.990747915879291],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Jihad.svg",
+        "article": "https://www.moderninsurgent.org/post/_jnim",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Front for the Liberation of the Enclave of Cabinda (FLEC)",
+        "coordinates": [12.283529236413486, -5.149608470869734],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Cabinda_%28FLEC_propose%29.svg",
+        "article": "https://www.moderninsurgent.org/post/front-for-the-liberation-of-the-enclave-of-cabinda-flec",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Al Shabaab",
+        "coordinates": [44.53080778970273, 3.3037261588735647],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/94/ShababLogo.png",
+        "article": "https://www.moderninsurgent.org/post/al-shabaab",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Libyan National Army (LNA)",
+        "coordinates": [23.94274904607924, 32.0662430699265],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Libyan_COA_used_by_Haftar.png",
+        "article": "https://www.moderninsurgent.org/post/libyan-national-army-lna",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "The Movement for the Emancipation of the Niger Delta (MEND)",
+        "coordinates": [7.033625118156722, 4.693526252500253],
+        "logo": "https://www.thetidenewsonline.com/wp-content/uploads/2016/07/FRED250716-NEWS-3d.jpg",
+        "article": "https://en.wikipedia.org/wiki/Movement_for_the_Emancipation_of_the_Niger_Delta",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Movement of Democratic Forces of Casamance (MFDC)",
+        "coordinates": [-15.559563264919795, 12.74764274851825],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Casamance.svg",
+        "article": "https://www.moderninsurgent.org/post/movement-of-democratic-forces-of-casamance-mfdc",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Ambazonia Defence Forces (ADF)",
+        "coordinates": [10.343005790901444, 6.455393265722247],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/3/3e/Seal_of_the_Ambazonia_Defence_Forces.png",
+        "article": "https://www.moderninsurgent.org/post/amazonia-defence-forces-adf",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "National Movement for the Liberation of Azawad (MNLA)",
+        "coordinates": [-1.7292089289328174, 18.424136342122537],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/MNLA_flag.svg",
+        "article": "https://www.moderninsurgent.org/post/national-movement-for-the-liberation-of-azawad-mnla",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Government of National Accord (GNA)",
+        "coordinates": [13.194228532201747, 32.886755815834476],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/Government_of_National_Accord_Seal.jpg",
+        "article": "https://www.moderninsurgent.org/post/government-of-national-accord-gna",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "M23 Rebels (March 23 Movement)",
+        "coordinates": [29.213480649812535, -1.6537266529934471],
+        "logo": "https://static.wixstatic.com/media/c24061_56d03195ba59416891991272218262f4~mv2.png/v1/fill/w_2560,h_1920,al_c,q_90/c24061_56d03195ba59416891991272218262f4~mv2.webp",
+        "article": "https://www.moderninsurgent.org/post/m23-rebels-march-23-movement",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Tigray People’s Liberation Front (TPLF)",
+        "coordinates": [38.35734691175865, 13.954916319110913],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Emblem_Of_Tigray_People%27s_Liberation_Front.svg",
+        "article": "https://www.moderninsurgent.org/post/tigray-people-s-liberation-front-tplf",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Polisario Front (PF)",
+        "coordinates": [-13.50982043099401, 24.56646238330759],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e8/Seal_of_Polisario_Front.png",
+        "article": "https://www.moderninsurgent.org/post/polisario-front",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Bolivarian Forces of Liberation (FBL/FPLN)",
+        "coordinates": [-68.74992730558262, 7.19347189952461],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/59/Bolivarian_Forces_of_Liberation_logo.png",
+        "article": "https://www.moderninsurgent.org/post/bolivarian-forces-of-liberation-fbl",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Guacamaya",
+        "coordinates": [-99.13677240728897, 19.42281245512314],
+        "logo": "https://static.wixstatic.com/media/c24061_189996e63df54f3a8c5d34638519dd0a~mv2.jpeg",
+        "article": "https://www.moderninsurgent.org/post/guacamaya",
+        "status": "hacktivist",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Jamaat Al Muslimeen (JAM)",
+        "coordinates": [-61.26907431453122, 10.411330856685296],
+        "logo": "https://static.wixstatic.com/media/c24061_831a69d0992b45b5944f93cce0321227~mv2.png/v1/fill/w_860,h_520,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c24061_831a69d0992b45b5944f93cce0321227~mv2.png",
+        "article": "https://www.moderninsurgent.org/post/jamaat-al-muslimeen-jam",
+        "status": "inactive",
+	"size": "very_small"
+    },
+    {
+        "name": "Shining Path",
+        "coordinates": [-75.2041386430362, -12.05969424176737],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Emblem_of_the_PCP-Shining_Path.svg",
+        "article": "https://www.moderninsurgent.org/post/shining-path",
+        "status": "inactive",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "The South is my Country",
+        "coordinates": [-52.245557819895645, -28.89506011726198],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bandeira_do_movimento_O_Sul_É_o_Meu_Pa%C3%ADs.svg",
+        "article": "https://www.moderninsurgent.org/post/the-south-is-my-country",
+        "status": "nonviolent",
+	"size": "large"
+    },
+    {
+        "name": "Weichan Auka Mapu (WAM)",
+        "coordinates": [-72.23714766021443, -37.509961754043424],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_Weichan_Auka_Mapu.jpg",
+        "article": "https://www.moderninsurgent.org/post/weichan-auka-mapu-wam",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Coordinadora Arauco-Malleco (CAM)",
+        "coordinates": [-72.56549712145008, -39.96156795215755],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Logo_de_la_CAM.svg",
+        "article": "https://www.moderninsurgent.org/post/coordinadora-arauco-malleco-cam",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "National Liberation Army (ELN)",
+        "coordinates": [-73.11226938051533, 5.594543318648318],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Ejército_de_Liberación_Nacional_%28Colombia%29_%28logo%29.png",
+        "article": "https://www.moderninsurgent.org/post/national-liberation-army-eln",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Paraguayan People’s Army (EPP)",
+        "coordinates": [-56.585772080734905, -23.04260686965817],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Emblema_del_Ejército_del_Pueblo_Paraguayo.svg",
+        "article": "https://www.moderninsurgent.org/post/paraguayan-people-s-army-epp",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Confederation of Indigenous Nationalities of Ecuador (CONAIE)",
+        "coordinates": [-78.46557415559349, -0.18247369140591904],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bandera_de_la_CONAIE.svg",
+        "article": "https://www.moderninsurgent.org/post/confederation-of-indigenous-nationalities-of-ecuador-conaie",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Andahuaylazo Etnocaceritas",
+        "coordinates": [-73.37710496475883, -13.658695425009961],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Flag_of_the_Ethnocacerist_Movement_%28Qullasuyu%29.svg/2880px-Flag_of_the_Ethnocacerist_Movement_%28Qullasuyu%29.svg.png",
+        "article": "https://www.moderninsurgent.org/post/andahuaylazo-etnocaceritas",
+        "status": "inactive",
+	"size": "very_small"
+    },
+    {
+        "name": "M-19 Guerrillas (19th of April Movement)",
+        "coordinates": [-76.80890834347665, 2.440689137485687],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_M-19.svg",
+        "article": "https://www.moderninsurgent.org/post/m-19-guerrillas-19th-of-april-movement",
+        "status": "nonviolent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Blockade Australia",
+        "coordinates": [151.21508096038986, -33.87620259806041],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/LogoBlockadeAustralia-600.webp",
+        "article": "https://www.youtube.com/watch?v=8abpBXfJznM",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Hells Angels (HAMC)",
+        "coordinates": [-117.40050888059686, 34.06800867366421],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/5d/Hells_Angels_logo.jpg",
+        "article": "https://www.moderninsurgent.org/post/hells-angels-hamc",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Atomwaffen Division (AWD)",
+        "coordinates": [-82.45293167708621, 27.948268819683406],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Atomwaffen_Division.svg",
+        "article": "https://www.moderninsurgent.org/post/atomwaffen-division-awd",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Sea Shepherd Conservation Society (SSCS)",
+        "coordinates": [-122.81906464279045, 48.58627616685863],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/2/29/Sea_Shepherd_Conservation_Society.png",
+        "article": "https://www.moderninsurgent.org/post/sea-shepherd-conservation-society-sscs",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Atlanta Resistance Medics (ARM)",
+        "coordinates": [-84.38902862008734, 33.74790478509773],
+        "logo": "http://www.atlantaresistancemedics.org/wp-content/uploads/2020/08/arm-logo-rev.png",
+        "article": "https://www.moderninsurgent.org/post/atlanta-resistance-medics-arm",
+        "status": "nonviolent",
+	"size": "very_small"
+    },
+    {
+        "name": "John Brown Gun Club",
+        "coordinates": [-94.7164028152403, 39.00836368836745],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Puget_Sound_John_Brown_Gun_Club_logo.png",
+        "article": "https://www.moderninsurgent.org/post/john-brown-gun-club",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Nation of Islam (NOI)",
+        "coordinates": [-87.58538590527822, 41.760904656518356],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_of_the_Nation_of_Islam.svg",
+        "article": "https://www.moderninsurgent.org/post/nation-of-islam-noi",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Defend the Atlanta Forest (DTF)",
+        "coordinates": [-84.33319146709506, 33.69213081926953],
+        "logo": "https://i0.wp.com/defendtheatlantaforest.org/wp-content/uploads/2022/07/photo_2021-07-12-15.07.28.jpeg",
+        "article": "https://www.moderninsurgent.org/post/nation-of-islam-noi",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "American Indian Movement (AIM)",
+        "coordinates": [-93.26782919838531, 44.97617078033873],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_the_American_Indian_Movement_V2.svg",
+        "article": "https://www.moderninsurgent.org/post/american-indian-movement-aim",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Redneck Revolt",
+        "coordinates": [-94.77149083801248, 39.14569479134972],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/a/af/Redneck_Revolt_logo.jpg",
+        "article": "https://www.moderninsurgent.org/post/redneck-revolt",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Oath Keepers",
+        "coordinates": [-96.79845597641764, 32.77573711078738],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Oath_Keepers_logo.svg",
+        "article": "https://www.moderninsurgent.org/post/oath-keepers",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "National Socialist Movement",
+        "coordinates": [-93.08899533792774, 44.951783794799425],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_National_Socialist_Movement_%28United_States%29.svg",
+        "article": "https://www.moderninsurgent.org/post/national-socialist-movement",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Crips",
+        "coordinates": [-118.21753785351022, 33.89137922932666],
+        "logo": "https://e1.pxfuel.com/desktop-wallpaper/763/440/desktop-wallpaper-crips-pulse-blue-bandana-for-computer-crip-mobile-phone.jpg",
+        "article": "https://www.moderninsurgent.org/post/crips",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Friends Stand United (FSU)",
+        "coordinates": [-71.05911698781075, 42.3581878784834],
+        "logo": "https://static.wixstatic.com/media/c24061_fec0e37f95ad48e9816986308897316f~mv2.jpeg",
+        "article": "https://www.moderninsurgent.org/post/friends-stand-united-fsu",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Alpha 66 (A66)",
+        "coordinates": [-80.22753271063829, 25.766121605442226],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Alpha_66.svg",
+        "article": "https://www.moderninsurgent.org/post/alpha-66-a66",
+        "status": "inactive",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Boogaloo Movement",
+        "coordinates": [-77.19450938389285, 39.01622040640683],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Boogaloo_flag.svg",
+        "article": "https://www.moderninsurgent.org/post/boogaloo-movement",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Patriot Front",
+        "coordinates": [-96.79748520804431, 32.77495892978301],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Patriot_Front.svg",
+        "article": "https://www.moderninsurgent.org/post/patriot-front",
+        "status": "nonviolent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Brown Berets (Los Boinas Cafés)",
+        "coordinates": [-121.76296672187799, 36.91520160562796],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/Brown_Beret_logo.png",
+        "article": "https://www.moderninsurgent.org/post/brown-berets-los-boinas-cafés",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Farabundo Martí National Liberation Front (FMLN)",
+        "coordinates": [-89.21705495886101, 13.687709352880391],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bandera_-_Frente_Farabundo_Mart%C3%AD_para_la_Liberación_Nacional.svg",
+        "article": "https://www.moderninsurgent.org/post/farabundo-mart%C3%AD-national-liberation-front-fmln",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Zapatista Army of National Liberation (EZLN)",
+        "coordinates": [-92.64101186044633, 16.729877773444922],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ejército_Zapatista_de_Liberación_Nacional%2C_Flag.svg",
+        "article": "https://www.moderninsurgent.org/post/zapatista-army-of-national-liberation-ezln",
+        "status": "nonviolent",
+	"size": "large"
+    }
+]
