@@ -1070,5 +1070,21 @@
         "article": "https://www.moderninsurgent.org/post/zapatista-army-of-national-liberation-ezln",
         "status": "nonviolent",
 	"size": "large"
+    },
+    {
+        "name": "Real Ulster Freedom Fighters (Real UFF)",
+        "coordinates": [-5.667434176582421, 54.649501719344904],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Ulster_Freedom_Fighters.svg",
+        "article": "https://www.moderninsurgent.org/post/the-real-ulster-freedom-fighters-real-uff",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Ulster Defence Association (UDA)",
+        "coordinates": [-5.931964648357664, 54.67254017596299],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/90/Emblem_of_the_Ulster_Defence_Association.svg",
+        "article": "https://www.moderninsurgent.org/post/ulster-defence-association-uda",
+        "status": "nonviolent",
+	"size": "somewhat_small"
     }
 ]
