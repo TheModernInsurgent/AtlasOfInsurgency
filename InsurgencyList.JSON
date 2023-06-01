@@ -1086,5 +1086,13 @@
         "article": "https://www.moderninsurgent.org/post/ulster-defence-association-uda",
         "status": "nonviolent",
 	"size": "somewhat_small"
+    },
+    {
+        "name": "Army of the Men of the Naqshbandi Order (JRTN)",
+        "coordinates": [44.366858447067294, 33.311424771205836],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/Logo_of_the_Army_of_the_Men_of_the_Naqshbandi_Order.png",
+        "article": "https://www.moderninsurgent.org/post/army-of-the-men-of-the-nashqbandi-order-jrtn",
+        "status": "violent",
+	"size": "somewhat_large"
     }
 ]
