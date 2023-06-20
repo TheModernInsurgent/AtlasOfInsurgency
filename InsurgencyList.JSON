@@ -1094,5 +1094,37 @@
         "article": "https://www.moderninsurgent.org/post/army-of-the-men-of-the-nashqbandi-order-jrtn",
         "status": "violent",
 	"size": "somewhat_large"
+    },
+    {
+        "name": "Russian Volunteer Corps (RDK)",
+        "coordinates": [36.59741495179904, 50.596810489351306],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_the_Russian_Volunteer_Corps.svg",
+        "article": "https://www.moderninsurgent.org/post/russian-volunteer-corps-rdk",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Al-Qaeda in Kurdistan (Kurdistan Brigades)",
+        "coordinates": [44.38287380539661, 35.46683976730635],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_al-Qaeda%27s_Kurdish_Brigades.jpg",
+        "article": "https://www.moderninsurgent.org/post/al-qaeda-in-kurdistan-kurdistan-brigades",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Jewish Defence League (JDL)",
+        "coordinates": [-74.00445330213388, 40.71159438389555],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/2/29/Star_and_Fist_Logo.png",
+        "article": "https://www.moderninsurgent.org/post/jewish-defence-league-jdl",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Earth Liberation Front (ELF)",
+        "coordinates": [-0.13573926979788378, 50.82270271122298],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Earthfirstmonkeywrench.png",
+        "article": "https://www.moderninsurgent.org/post/earth-liberation-front-elf",
+        "status": "inactive",
+	"size": "somewhat_small"
     }
 ]
