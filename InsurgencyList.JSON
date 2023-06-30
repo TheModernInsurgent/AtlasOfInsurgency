@@ -1126,5 +1126,21 @@
         "article": "https://www.moderninsurgent.org/post/earth-liberation-front-elf",
         "status": "inactive",
 	"size": "somewhat_small"
+    },
+    {
+        "name": "Freedom of Russia Legion (FRL)",
+        "coordinates": [36.42758550485181, 50.32992584021699],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Patch_of_the_Ukrainian_Free_Russian_Legion.svg",
+        "article": "https://www.moderninsurgent.org/post/freedom-of-russia-legion",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Taliban",
+        "coordinates": [69.20773434494204, 34.55453652332092],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+        "article": "https://www.moderninsurgent.org/post/taliban",
+        "status": "violent",
+	"size": "large"
     }
 ]
