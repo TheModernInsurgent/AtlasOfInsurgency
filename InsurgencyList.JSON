@@ -1142,5 +1142,37 @@
         "article": "https://www.moderninsurgent.org/post/taliban",
         "status": "violent",
 	"size": "large"
+    },
+    {
+        "name": "Blood And Honour",
+        "coordinates": [0.7424751222441449, 51.21691407010628],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/1/12/BloodandHonourlogo.png",
+        "article": "https://www.moderninsurgent.org/post/blood-and-honour",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Jalisco New Generation Cartel (CJNG)",
+        "coordinates": [-103.35034477004459, 20.65889352168515],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cártel_de_Jalisco_Nueva_Generación_logo_3.png",
+        "article": "https://www.moderninsurgent.org/post/jalisco-new-generation-cartel-cjng",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "SADAT International Defense Consultancy",
+        "coordinates": [28.66749326969694, 40.97498027832715],
+        "logo": "https://static.wixstatic.com/media/f9ef56_5553b50aed8149809ad431fff36e2edb~mv2.jpeg",
+        "article": "https://www.moderninsurgent.org/post/sadat",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Gulen Movement",
+        "coordinates": [27.140128109165694, 38.4224014077387],
+        "logo": "https://www.gulenmovement.com/sds/wp-content/uploads/2016/03/logo_gm.png",
+        "article": "https://www.moderninsurgent.org/post/gulen-movement",
+        "status": "nonviolent",
+	"size": "somewhat_small"
     }
 ]
