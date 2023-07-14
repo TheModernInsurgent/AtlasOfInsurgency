@@ -1174,5 +1174,13 @@
         "article": "https://www.moderninsurgent.org/post/gulen-movement",
         "status": "nonviolent",
 	"size": "somewhat_small"
+    },
+    {
+        "name": "National Socialism Association (NSA)",
+        "coordinates": [121.5542125500979, 25.048626708039034],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/National_Socialism_Association_logo.png",
+        "article": "https://www.moderninsurgent.org/post/national-socialism-association-nsa",
+        "status": "inactive",
+	"size": "very_small"
     }
 ]
