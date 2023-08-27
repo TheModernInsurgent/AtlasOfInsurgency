@@ -1182,5 +1182,45 @@
         "article": "https://www.moderninsurgent.org/post/national-socialism-association-nsa",
         "status": "inactive",
 	"size": "very_small"
+    },
+    {
+        "name": "Abu Hafs al-Masri Brigades",
+        "coordinates": [32.120340398620826, 29.43965974952733],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Jihad.svg",
+        "article": "https://www.moderninsurgent.org/post/abu-hafs-al-masri-brigades",
+        "status": "inactive",
+	"size": "very_small"
+    },
+    {
+        "name": "Popular Front for the Liberation of Libya (PFLL)",
+        "coordinates": [16.570722678383653, 31.19083924871289],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ca/Logo_of_the_Popular_Front_for_the_Liberation_of_Libya.png",
+        "article": "https://www.moderninsurgent.org/post/popular-front-for-the-liberation-of-libya-pfll",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "The Groypers (America First)",
+        "coordinates": [-87.87512516106833, 41.82695302685846],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/ff/Groyper_cartoon.png",
+        "article": "https://www.moderninsurgent.org/post/the-groypers-america-first",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Hadhramaut Tribal Alliance",
+        "coordinates": [49.3643862888174, 16.930478963047857],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_the_Hadhramout_Tribes_Confederacy.svg",
+        "article": "https://www.moderninsurgent.org/post/hadhramaut-tribal-alliance",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "The Aryan Brotherhood",
+        "coordinates": [-122.48985793216211, 37.938620610441234],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Aryan_Brotherhood_hate_symbol.svg",
+        "article": "https://www.moderninsurgent.org/post/the-aryan-brotherhood",
+        "status": "violent",
+	"size": "somewhat_large"
     }
 ]
