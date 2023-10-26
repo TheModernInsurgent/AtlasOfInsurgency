@@ -530,7 +530,7 @@
     {
         "name": "Ahrar al-Sharqiya",
         "coordinates": [37.07724159553206, 36.235314313193854],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/3.-The-current-Ahrar-al-Sharqiya-logo.jpg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Flag_of_the_Syrian_revolution.svg",
         "article": "https://www.moderninsurgent.org/post/ahrar-al-sharqiya-1",
         "status": "violent",
 	"size": "somewhat_small"
@@ -1225,7 +1225,7 @@
     },
     {
         "name": "East Turkestan Islamic Movement (ETIM)",
-        "coordinates": [85.74720089604834, 40.325880352830026],
+        "coordinates": [75.95770130200883, 39.35598803849818],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Turkistan_Islamic_Party.svg",
         "article": "https://www.moderninsurgent.org/post/east-turkestan-islamic-movement-etim",
         "status": "violent",
