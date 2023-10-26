@@ -90,8 +90,8 @@
     {
         "name": "Jammu and Kashmir Liberation Front (JKLF)",
         "coordinates": [75.6424811099595, 33.652938560554986],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Jammu_Kashmir_Liberation_Front_flag.svg",
-        "article": "https://www.moderninsurgent.org/post/jammu-and-kashmir-liberation-front-jklf",
+        "logo": "https://static.wixstatic.com/media/59184a_5c979feeaca541f59acad071349eadea~mv2.png",
+        "article": "https://www.moderninsurgent.org/post/jammu-kashmir-liberation-front-jklf",
         "status": "nonviolent",
 	"size": "somewhat_large"
     },
@@ -1067,7 +1067,7 @@
         "name": "Zapatista Army of National Liberation (EZLN)",
         "coordinates": [-92.64101186044633, 16.729877773444922],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ejército_Zapatista_de_Liberación_Nacional%2C_Flag.svg",
-        "article": "https://www.moderninsurgent.org/post/zapatista-army-of-national-liberation-ezln",
+        "article": "https://www.moderninsurgent.org/post/zapatista-army-of-national-liberation-ezln-1",
         "status": "nonviolent",
 	"size": "large"
     },
@@ -1220,6 +1220,70 @@
         "coordinates": [-122.48985793216211, 37.938620610441234],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Aryan_Brotherhood_hate_symbol.svg",
         "article": "https://www.moderninsurgent.org/post/the-aryan-brotherhood",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "East Turkestan Islamic Movement (ETIM)",
+        "coordinates": [85.74720089604834, 40.325880352830026],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Turkistan_Islamic_Party.svg",
+        "article": "https://www.moderninsurgent.org/post/east-turkestan-islamic-movement-etim",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Red Dragons",
+        "coordinates": [9.50761152608694, 5.691907566692746],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_the_Federal_Republic_of_Southern_Cameroons.svg",
+        "article": "https://www.moderninsurgent.org/post/red-dragons",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Aum Shinrikyo / Aleph",
+        "coordinates": [139.7689353200902, 35.66735100088748],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Aum_symbol.svg",
+        "article": "https://www.moderninsurgent.org/post/aum-shinrikyo-aleph",
+        "status": "violent",
+	"size": "very_small"
+    },
+    {
+        "name": "Ansaru",
+        "coordinates": [8.594200500951551, 11.997248006552033],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_Ansaru.svg",
+        "article": "https://www.moderninsurgent.org/post/ansaru",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Westboro Baptist Church",
+        "coordinates": [-95.72145257442209, 39.04530065197461],
+        "logo": "https://static.wixstatic.com/media/f9ef56_1ccb326075ab450ea3b096b20a8f72f8~mv2.jpg",
+        "article": "hhttps://www.moderninsurgent.org/post/westboro-baptist-church",
+        "status": "violent",
+	"size": "very_small"
+    },
+    {
+        "name": "Serb Volunteer Guard (Arkan's Tigers)",
+        "coordinates": [17.193461032740245, 44.77100741000253],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_Ansaru.svg",
+        "article": "https://www.moderninsurgent.org/post/serb-volunteer-guard-arkan-s-tigers",
+        "status": "inactive",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Tiger Forces (Syrian 25th Special Mission Forces Division)",
+        "coordinates": [36.2777420950089, 33.51288713398022],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Syrian_commando.png",
+        "article": "https://www.moderninsurgent.org/post/tiger-forces",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Colectivos",
+        "coordinates": [-66.90205558797237, 10.475101490392706],
+        "logo": "https://static.wixstatic.com/media/c24061_8d657475d000493ea89935b6e2a6a0d8~mv2.jpg",
+        "article": "https://www.moderninsurgent.org/post/colectivos",
         "status": "violent",
 	"size": "somewhat_large"
     }
