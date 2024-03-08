@@ -514,7 +514,7 @@
     {
         "name": "Lion's Den",
         "coordinates": [35.24886204067009, 32.2212308506747],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lion%27s_Den_Emblem.png",
+        "logo": "https://static.wixstatic.com/media/c24061_df61ce16ca8f440ebb382925eff46a36~mv2.png/v1/fill/w_2000,h_2000,al_c,q_90/c24061_df61ce16ca8f440ebb382925eff46a36~mv2.webp",
         "article": "https://www.moderninsurgent.org/post/lions-den",
         "status": "violent",
 	"size": "somewhat_small"
@@ -562,7 +562,7 @@
     {
         "name": "Hamas",
         "coordinates": [34.46276117505538, 31.49837506420981],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/29/Hamas_حماس_logo.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Hamas_logo.png",
         "article": "https://www.moderninsurgent.org/post/hamas",
         "status": "violent",
 	"size": "large"
@@ -1357,6 +1357,38 @@
         "logo": "https://static.wixstatic.com/media/9b81ac_cc99cdc8f3404bbbbcb3036d9c623663~mv2.jpg",
         "article": "https://www.moderninsurgent.org/post/continuity-ira-cira",
         "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Moro Islamic Liberation Front (MILF)",
+        "coordinates": [125.60761622853764, 7.07084140519643],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Flag_of_the_Moro_Islamic_Liberation_Front.svg",
+        "article": "https://www.moderninsurgent.org/post/moro-islamic-liberation-front-milf",
+        "status": "nonviolent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Basij",
+        "coordinates": [51.379138666959776, 35.68501361449995],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_Basij.svg",
+        "article": "https://www.moderninsurgent.org/post/basij",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Liwa al-Quds",
+        "coordinates": [37.25608049358673, 36.18775812529544],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Emblem_of_Liwa_Al-Quds.svg",
+        "article": "https://www.moderninsurgent.org/post/liwa-al-quds",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Falun Gong (法轮功)",
+        "coordinates": [-74.66803470982438, 41.434750819831756],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Falun_Gong_Logo.svg",
+        "article": "https://www.moderninsurgent.org/post/falun-gong-法轮功",
+        "status": "nonviolent",
 	"size": "somewhat_small"
     }
 ]
