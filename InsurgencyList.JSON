@@ -466,7 +466,7 @@
     {
         "name": "National Resistance Front of Afghanistan (NRF)",
         "coordinates": [69.78897746209888, 35.41120621737727],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_National_Resistance_Front_of_Afghanistan.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_the_National_Resistance_Front_of_Afghanistan.svg",
         "article": "https://www.moderninsurgent.org/post/national-resistance-front-of-afghanistan-nrf",
         "status": "violent",
 	"size": "somewhat_small"
@@ -1446,5 +1446,13 @@
         "article": "https://www.moderninsurgent.org/post/fatah-al-intifada",
         "status": "violent",
 	"size": "somewhat_large"
+    },
+    {
+        "name": "Sinjar Resistance Units (YBŞ",
+        "coordinates": [41.71832559007696, 36.37927817861575],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_YBŞ.svg",
+        "article": "https://www.moderninsurgent.org/post/sinjar-resistance-units-ybş",
+        "status": "violent",
+	"size": "very_small"
     }
 ]
