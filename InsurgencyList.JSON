@@ -35,7 +35,7 @@
         "name": "Karen National Liberation Army (KNLA)",
         "coordinates": [97.97515220125595, 16.982692444177523],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_the_KNLA.svg",
-        "article": "https://www.moderninsurgent.org/post/karen-national-liberation-army-knla",
+        "article": "https://www.moderninsurgent.org/post/karen-national-liberation-army-knla-1",
         "status": "violent",
 	"size": "somewhat_large"
     },
@@ -291,7 +291,7 @@
         "name": "Hoods Hoods Klan (HHK)",
         "coordinates": [30.5260703425726, 50.436263928731506],
         "logo": "https://static.wixstatic.com/media/c24061_bfd06707b0264c799c27fcd2af9de86e~mv2.png",
-        "article": "https://www.moderninsurgent.org/post/hoods-hoods-klan-hhk",
+        "article": "https://www.moderninsurgent.org/post/hoods-hoods-klan-hhk-1",
         "status": "violent",
 	"size": "very_small"
     },
@@ -1390,5 +1390,61 @@
         "article": "https://www.moderninsurgent.org/post/falun-gong-法轮功",
         "status": "nonviolent",
 	"size": "somewhat_small"
+    },
+    {
+        "name": "The Coordination of Azawad Movements (CMA)",
+        "coordinates": [4.185109909628669, 19.15964301374934],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/CMADrapeau.svg",
+        "article": "https://www.moderninsurgent.org/post/the-coordination-of-azawad-movements-cma",
+        "status": "violent",
+	"size": "large"
+    },
+    {
+        "name": "Fatah",
+        "coordinates": [35.2033069054737, 31.903706016128616],
+        "logo": "https://static.wixstatic.com/media/59184a_0ce1646837b4432eb63b64b7b2cbb620~mv2.png",
+        "article": "https://www.moderninsurgent.org/post/fatah",
+        "status": "nonviolent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "English Defense League (EDL)",
+        "coordinates": [-0.41883834473694886, 51.878066075745686],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/EDL_English_Defence_League_logo.png",
+        "article": "https://www.moderninsurgent.org/post/english-defense-league-edl",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Indian Posse",
+        "coordinates": [-97.1343111092226, 49.89614518253267],
+        "logo": "https://static.wixstatic.com/media/2e7e47_2257929d89c04d0c855daa18c6641015~mv2.jpg",
+        "article": "https://www.moderninsurgent.org/post/indian-posse",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Young Army Cadets National Movement (Yunarmiya)",
+        "coordinates": [37.52691126007584, 55.7770058530607],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_the_Young_Army.svg",
+        "article": "https://www.moderninsurgent.org/post/young-army-cadets-national-movement-yunarmiya",
+        "status": "nonviolent",
+	"size": "very_small"
+    },
+    {
+        "name": "Palestinian Islamic Jihad (PIJ)",
+        "coordinates": [34.229984672043116, 31.266068217699086],
+        "logo": "https://ecfr.eu/wp-content/uploads/IslamicJihadFlag_-_Wikimedia-1-1024xcenter-c-default.png",
+        "article": "https://www.moderninsurgent.org/post/palestinian-islamic-jihad-pij",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+    {
+        "name": "Fatah al-Intifada",
+        "coordinates": [35.29622214921255, 32.45978945416226],
+        "logo": "https://static.wixstatic.com/media/c24061_77e73cb1f7fb4c7aba76dbdacc21449b~mv2.png",
+        "article": "https://www.moderninsurgent.org/post/fatah-al-intifada",
+        "status": "violent",
+	"size": "somewhat_large"
     }
 ]
