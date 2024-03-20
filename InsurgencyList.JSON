@@ -490,7 +490,7 @@
     {
         "name": "Islamic State Khorasan Province (ISK)",
         "coordinates": [67.46457566487769, 31.25960075133995],
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8b/ISIL_Khorasan.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Islamic_State_–_Khurasan_Province.svg/1920px-Islamic_State_–_Khurasan_Province.svg.png",
         "article": "https://www.moderninsurgent.org/post/islamic-state-khorasan-province-isk",
         "status": "violent",
 	"size": "large"
@@ -578,7 +578,7 @@
     {
         "name": "Yemeni National Resistance Forces (NRF)",
         "coordinates": [42.979969010147485, 14.775197077390999],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/National_Resistance.jpg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_the_National_Resistance_Front_of_Afghanistan.svg",
         "article": "https://www.moderninsurgent.org/post/yemeni-national-resistance",
         "status": "violent",
 	"size": "somewhat_large"
