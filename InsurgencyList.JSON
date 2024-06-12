@@ -99,7 +99,7 @@
         "name": "People’s Mojahiden Organisation of Iran (PMOI/MEK)",
         "coordinates": [51.33678430427351, 35.70301468326439],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/People%27s_Mujahedin_Organization_of_Iran_Logo.jpg",
-        "article": "https://www.moderninsurgent.org/post/people-s-mojahiden-organisation-of-iran-pmoi-mek",
+        "article": "https://www.moderninsurgent.org/post/mojaehdin-e-kalq-mek",
         "status": "nonviolent",
 	"size": "somewhat_small"
     },
@@ -907,7 +907,7 @@
         "name": "M-19 Guerrillas (19th of April Movement)",
         "coordinates": [-76.80890834347665, 2.440689137485687],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_M-19.svg",
-        "article": "https://www.moderninsurgent.org/post/m-19-guerrillas-19th-of-april-movement",
+        "article": "https://www.moderninsurgent.org/post/_m-19",
         "status": "nonviolent",
 	"size": "somewhat_large"
     },
@@ -1448,11 +1448,115 @@
 	"size": "somewhat_large"
     },
     {
-        "name": "Sinjar Resistance Units (YBŞ",
+        "name": "Sinjar Resistance Units (YBŞ)",
         "coordinates": [41.71832559007696, 36.37927817861575],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_YBŞ.svg",
         "article": "https://www.moderninsurgent.org/post/sinjar-resistance-units-ybş",
         "status": "violent",
 	"size": "very_small"
+    },
+    {
+        "name": "League of St. George",
+        "coordinates": [-0.1478451332649688, 51.511621489483396],
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/League_of_Saint_George_emblem.svg/2880px-League_of_Saint_George_emblem.svg.png",
+        "article": "https://www.moderninsurgent.org/post/league-of-st-george",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+ {
+        "name": "Malorussian Liberation Army (MLA)",
+        "coordinates": [30.36106896293266, 59.93105226460434],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_the_Malorussian_Liberation_Army.png",
+        "article": "https://www.moderninsurgent.org/post/malorussian-liberation-army",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+ {
+        "name": "Galician Resistance (GR)",
+        "coordinates": [-8.544414413019224, 42.8767784532831],
+        "logo": "https://static.wixstatic.com/media/2e7e47_278db9e5ea7b414197a78880d2c7ff77~mv2.jpeg/v1/fill/w_700,h_394,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/2e7e47_278db9e5ea7b414197a78880d2c7ff77~mv2.jpeg",
+        "article": "https://www.moderninsurgent.org/post/galician-resistance-rg",
+        "status": "violent",
+	"size": "very_small"
+    },
+ {
+        "name": "Student Armed Force (SAF)",
+        "coordinates": [95.23155354285815, 25.602926523492563],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Student_Armed_Force.svg/2880px-Flag_of_Student_Armed_Force.svg.png",
+        "article": "https://www.moderninsurgent.org/post/student-armed-force-saf",
+        "status": "violent",
+	"size": "somewhat_small"
+    },
+ {
+        "name": "Five Percent Nation (NGE)",
+        "coordinates": [-73.94836138355514, 40.8090807115068],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Five-Percent_%28NOGE%29_Symbol.png",
+        "article": "https://www.moderninsurgent.org/post/five-percent-nation-nge",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+ {
+        "name": "The Base",
+        "coordinates": [-120.69329148704668, 48.990755094702884],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_The_Base.svg/2560px-Flag_of_The_Base.svg.png",
+        "article": "https://www.moderninsurgent.org/post/the-base",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+ {
+        "name": "Sandworm",
+        "coordinates": [37.45451889059717, 55.88094368930411],
+        "logo": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2014/10/sandworm.jpg?fit=600%2C166&ssl=1",
+        "article": "https://www.moderninsurgent.org/post/sandworm",
+        "status": "hacktivist",
+	"size": "somewhat_small"
+    },
+ {
+        "name": "Animal Liberation Front (ALF)",
+        "coordinates": [-1.1534128867642413, 51.89979071771502],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ALF_logo.svg/1920px-ALF_logo.svg.png",
+        "article": "https://www.moderninsurgent.org/post/animal-liberation-front",
+        "status": "nonviolent",
+	"size": "somewhat_small"
+    },
+ {
+        "name": "Chin National Front",
+        "coordinates": [93.93749218386907, 21.21872847537262],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/CNF_Hornbills.svg/1920px-CNF_Hornbills.svg.png",
+        "article": "https://www.moderninsurgent.org/post/animal-liberation-front",
+        "status": "nonviolent",
+	"size": "somewhat_large"
+    },
+ {
+        "name": "Ku Klux Klan (KKK)",
+        "coordinates": [-87.03129915592525, 35.19962660715989],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_Ku_Klux_Klan.svg/2560px-Flag_of_the_Ku_Klux_Klan.svg.png",
+        "article": "https://www.moderninsurgent.org/post/ku-klux-klan-kkk",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+ {
+        "name": "Los Lobos",
+        "coordinates": [-78.61465741587108, -0.9340809013308455],
+        "logo": "https://static.wixstatic.com/media/2e7e47_c513c3058a474d90860875defb7a62f1~mv2.jpg/v1/fill/w_700,h_428,al_c,lg_1,q_80,enc_auto/2e7e47_c513c3058a474d90860875defb7a62f1~mv2.jpg",
+        "article": "https://www.moderninsurgent.org/post/los-lobos",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+ {
+        "name": "Guardians of the Forest",
+        "coordinates": [-62.21566598886016, -3.465262307130994],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_do_Maranhão.svg/2560px-Bandeira_do_Maranhão.svg.png",
+        "article": "https://www.moderninsurgent.org/post/guardians-of-the-forest",
+        "status": "violent",
+	"size": "very_small"
+    },
+ {
+        "name": "Indigenous Guard",
+        "coordinates": [-76.61715337061239, 2.446210598678875],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Banner_of_the_Qulla_Suyu.svg/1920px-Banner_of_the_Qulla_Suyu.svg.png",
+        "article": "https://www.moderninsurgent.org/post/indigenous-guard",
+        "status": "nonviolent",
+	"size": "somewhat_small"
     }
 ]
