@@ -1572,7 +1572,196 @@
     "name": "Oath Keepers & Future of the US Militia Movement",
     "coordinates": [-116.89189917733555, 39.39347701728174],
     "logo": "https://static.wixstatic.com/media/c24061_b05836b92c8f42ebb9f4298956e91fe2~mv2.jpg/v1/crop/x_0,y_0,w_976,h_553/fill/w_976,h_551,al_c,q_85,enc_auto/74C78D72-B2B8-4802-8048-667C132FAA44.jpg",
-    "article": "https://www.moderninsurgent.org/na-issue-1",
+    "article": "https://www.moderninsurgent.org/na-issue-2",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "Influence of the War in Ukraine on Georgia's Sovereignty",
+    "coordinates": [44.802630713641086, 41.705052423194964],
+    "logo": "https://static.wixstatic.com/media/c24061_8def263f089e4e3fa5d3d15fc2560b55~mv2.jpg/v1/crop/x_40,y_0,w_845,h_477/fill/w_845,h_477,al_c,q_85,enc_auto/Issue%203%20Thumbnail.jpg",
+    "article": "https://www.moderninsurgent.org/na-issue-3",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "Mixing It Up - How Hybridization is Transforming Extremism in the Digital Era",
+    "coordinates": [-77.00908268987286, 38.88989711758913],
+    "logo": "https://static.wixstatic.com/media/c24061_00c5756fe85b4774817546ec6716f8ee~mv2.png/v1/crop/x_0,y_235,w_1080,h_609/fill/w_1079,h_609,al_c,q_90,enc_auto/240D326E-AD05-48B5-BFA2-B4E98995D00C_PNG.png",
+    "article": "https://www.moderninsurgent.org/na-issue-4",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "The Future of the Sovereign Citizen Movement - Posse Comitatus to the Reichsbürger",
+    "coordinates": [9.204456965968145, 48.494475874169595],
+    "logo": "https://static.wixstatic.com/media/c24061_492e83638c9a4542bdaaeeee7e8e0bed~mv2.png/v1/crop/x_0,y_235,w_1080,h_609/fill/w_1079,h_609,al_c,q_90,enc_auto/N%26A%20Issue%205%20Thumbnail_PNG.png",
+    "article": "https://www.moderninsurgent.org/na-issue-5",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "The Increasing Role of Cyber Conflict in the Kurdish Struggle",
+    "coordinates": [44.0113930163286, 36.189170367534835],
+    "logo": "https://static.wixstatic.com/media/c24061_5bc32b46e1654b299407af2b4384eac5~mv2.png/v1/crop/x_2,y_0,w_1196,h_675/fill/w_1196,h_675,al_c,q_90,enc_auto/Kurdish%20N%26A.png",
+    "article": "https://www.moderninsurgent.org/n-a-issue-6",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "Hybrid Warfare and Unorthodox Tactics: A Case Study on Italy's Falange Armata",
+    "coordinates": [15.080261091162686, 37.505935956215254],
+    "logo": "https://static.wixstatic.com/media/c24061_80bd40ab8e324a0c9b6a4ce398149951~mv2.jpg/v1/crop/x_2,y_0,w_1361,h_768/fill/w_1361,h_768,al_c,q_85,enc_auto/Hybrid_Warfare.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-7",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "No Friends but the Mountains: A Look at the SDF's Current Geopolitical Situation",
+    "coordinates": [42.30347294787776, 36.250466700716906],
+    "logo": "https://static.wixstatic.com/media/c24061_7850b9e3697846a9b3532d3771aaf4e7~mv2.jpg/v1/crop/x_2,y_0,w_1361,h_768/fill/w_1361,h_768,al_c,q_85,enc_auto/SDF.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-8",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "In the Crosshairs: The PSNI Data Breach & the Threat of Dissident Republicanism",
+    "coordinates": [-5.95238851976713, 54.5771261237448],
+    "logo": "https://static.wixstatic.com/media/c24061_a4e418b58a5542269daf30b8080d8883~mv2.jpg/v1/crop/x_3,y_0,w_1914,h_1080/fill/w_1478,h_834,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PSNI%20Article%20Thumbnail.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-9",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "The Renaissance of Kahanism in Israel",
+    "coordinates": [35.21196736596771, 31.7704201229053],
+    "logo": "https://static.wixstatic.com/media/c24061_6f496e13af1343cc98c474177b668c50~mv2.jpg/v1/crop/x_3,y_0,w_1914,h_1080/fill/w_1478,h_834,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Kahanism%20Article%20Thumbnail.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-10",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "The Kremlin's Invisible Battalions: The Growing Influence of Private Military Companies",
+    "coordinates": [37.61340141164371, 55.7520362373647],
+    "logo": "https://static.wixstatic.com/media/c24061_28c8a935fe7c4810be2c70fae5b75e0b~mv2.jpg/v1/crop/x_3,y_0,w_1914,h_1080/fill/w_1478,h_834,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Russian%20PMCs%20Article%20Thumbnail.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-11",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "Far-Right Infighting: Cozy.tv & the America First Foundation",
+    "coordinates": [-81.52046025608954, 28.36011090637648],
+    "logo": "https://static.wixstatic.com/media/c24061_c6ef5d3366cf4beba9e25d60de29378d~mv2.jpg/v1/crop/x_3,y_0,w_1914,h_1080/fill/w_1478,h_834,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/N%26A%2012%20Thumbnail.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-12",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "Beyond Gaza: Hezbollah's Rising Influence & the Future of Israeli Security",
+    "coordinates": [36.21118902392038, 34.00704167254966],
+    "logo": "https://static.wixstatic.com/media/c24061_a41fbb09549b462faddfdde74b091397~mv2.jpg/v1/crop/x_3,y_0,w_1914,h_1080/fill/w_1478,h_834,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/N%26A%20Articles%20Thumbnails.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-13",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "Negotiating with the ‘Enemy’ - How Constructive Dialogue Procures Peace",
+    "coordinates": [-97.14488096378028, 31.548202690828678],
+    "logo": "https://static.wixstatic.com/media/c24061_9c6639cbe31b4883bf47e4f57309456a~mv2.jpg/v1/crop/x_3,y_0,w_1914,h_1080/fill/w_1478,h_834,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/N%26A%20Articles%20Thumbnails%20(2).jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-14",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "Spain's Road to Reconciliation: Navigating Post-ETA Challenges",
+    "coordinates": [-3.0116940859797863, 43.32671705623304],
+    "logo": "https://static.wixstatic.com/media/c24061_7ff67b8a84114baca9358416ee7e085a~mv2.jpg/v1/crop/x_3,y_0,w_1914,h_1080/fill/w_1478,h_834,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/N%26A%20Articles%20Thumbnails%20(4).jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-15",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "Memetic Warfare: A Study of Psychological Tactics in the Digital Age",
+    "coordinates": [-77.03517879496788, 38.96023021219881],
+    "logo": "https://static.wixstatic.com/media/c24061_97c3f2b4d8744c4eaca80fdd93488513~mv2.jpg/v1/crop/x_3,y_0,w_1914,h_1080/fill/w_1478,h_834,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Memetic%20Warfare%20Thumbnail.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-16",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "​Haiti: Simply Gang Violence or an Organised Insurgency?",
+    "coordinates": [-72.32443537178561, 18.555493056689336],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Jimmy_%22Barbecue%22_Cherizier_2024.png",
+    "article": "https://www.moderninsurgent.org/n-a-issue-17",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "​The Fall of Ridouan Taghi: The ‘Mocro Mafia’, The European Super-Cartel & The Iranian Hit Squad",
+    "coordinates": [4.901202940478319, 52.36629225080454],
+    "logo": "https://static.wixstatic.com/media/c24061_81a5b1224b7e48559fa2162dcda26ce9~mv2.png/v1/fill/w_610,h_432,al_c,lg_1,q_85,enc_auto/Screenshot%202024-06-10%20at%2019_35_25.png",
+    "article": "https://www.moderninsurgent.org/n-a-issue-18",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "​Colombia’s “Total Peace” Threatened in Buenaventura, Part of a Larger Collapse in Ambitious Security Plan",
+    "coordinates": [-77.02476227744144, 3.8809050110166057],
+    "logo": "https://www.elespectador.com/resizer/v2/SGF5N3APINARTLXFHEFD6UQCOM.jpg?auth=9e68465474893455e659efdc340d543fc9b4c2534f42bfc9c52e84c4c6e660f0&width=920&height=613&smart=true&quality=60",
+    "article": "https://www.moderninsurgent.org/n-a-issue-19",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "​Popular Mobilization in Senegal’s 2024 Political Crisis",
+    "coordinates": [-17.463769225129496, 14.714994687218011],
+    "logo": "https://img.lemde.fr/2024/04/02/0/0/3321/2214/664/0/75/0/fa3aeaa_5082618-01-06.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-20",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "Far-right Confusion Over Israel's Actions in Gaza",
+    "coordinates": [34.68967055476383, 31.747332460112037],
+    "logo": "https://cpj.org/wp-content/uploads/2024/04/000_33ZN2NE.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-21",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "From Secret Societies to #miltok: The Far-right as an Aesthetic Trend",
+    "coordinates": [-77.06254465525663, 38.86763921368],
+    "logo": "https://www.radiofrance.fr/s3/cruiser-production/2023/02/c5dcb503-a9ea-42bd-8ec6-14b1c5d858b4/1200x680_reencodedfatimage_girl.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-22",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "The Birth of Clann Éireann: A Neo-Fascist Movement in Ireland",
+    "coordinates": [-6.257505459659333, 53.34429274071016],
+    "logo": "https://clanneireann.ie/wp-content/uploads/2024/04/centred.jpg",
+    "article": "https://www.moderninsurgent.org/n-a-issue-23",
     "status": "nonviolent",
     "size": "somewhat_large",
     "shape": "square"
