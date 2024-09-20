@@ -392,14 +392,6 @@
 	"size": "somewhat_small"
     },
     {
-        "name": "Euskadi Ta Askatasuna (ETA)",
-        "coordinates": [-2.9361401257336324, 43.263441114179265],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/ETA_BASQUE.svg",
-        "article": "https://www.moderninsurgent.org/post/euskadi-ta-askatasuna-eta",
-        "status": "inactive",
-	"size": "somewhat_large"
-    },
-    {
         "name": "Animal Liberation Front (ALF)",
         "coordinates": [-1.2582336253813236, 51.75187530203661],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/ALF_logo.svg",
@@ -539,7 +531,7 @@
         "name": "Popular Front for the Liberation of Palestine (PFLP)",
         "coordinates": [34.33285121724336, 31.38500261601969],
         "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/Logo_of_PFLP.png",
-        "article": "https://www.moderninsurgent.org/post/popular-front-for-the-liberation-of-palestine-pflp",
+        "article": "Popular Front for the Liberation of Palestine (PFLP)",
         "status": "violent",
 	"size": "somewhat_small"
     },
@@ -1765,5 +1757,61 @@
     "status": "nonviolent",
     "size": "somewhat_small",
     "shape": "square"
-}
+},
+    {
+        "name": "The Sect of Revolutionaries",
+        "coordinates": [23.737435449371617, 37.987681288348575],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Anarchist_flag.svg",
+        "article": "https://www.moderninsurgent.org/post/the-sect-of-revolutionaries",
+        "status": "inactive",
+	"size": "somewhat_small"
+    },
+    {
+        "name": "Syrian Electronic Army (SEA)",
+        "coordinates": [36.29312428762465, 33.5180495579113],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/SYRIAN_ELECTRONIC_ARMY.jpg",
+        "article": "https://www.moderninsurgent.org/post/syrian-electronic-army-sea",
+        "status": "hacktivist",
+	"size": "somewhat_small"
+    },
+   {
+        "name": "Bloods (Gang)",
+        "coordinates": [-118.22015531846809, 33.895955934440565],
+        "logo": "https://static.wixstatic.com/media/f9ef56_ae8a9f6095e044e8a6526a1abbada9f5~mv2.webp/v1/fill/w_524,h_524,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f9ef56_ae8a9f6095e044e8a6526a1abbada9f5~mv2.webp",
+        "article": "https://www.moderninsurgent.org/post/bloods",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+   {
+        "name": "Barisan Revolusi Nasional (BRN)",
+        "coordinates": [101.4126150097162, 6.719296672286138],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_the_Barisan_Revolusi_Nasional_%28Koordinasi%29.svg",
+        "article": "https://www.moderninsurgent.org/post/barisan-revolusi-nasional-brn",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+   {
+        "name": "Euskadi Ta Askatasuna (ETA)",
+        "coordinates": [-2.9361401257336324, 43.263441114179265],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/ETA_BASQUE.svg",
+        "article": "https://www.moderninsurgent.org/post/euskadi-ta-askatasuna-eta",
+        "status": "inactive",
+	"size": "somewhat_small"
+    },
+   {
+        "name": "Mullah Dadullah Front",
+        "coordinates": [69.27781769073995, 34.57279967038534],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+        "article": "https://www.moderninsurgent.org/post/mullah-dadullah-front",
+        "status": "inactive",
+	"size": "somewhat_small"
+    },
+   {
+        "name": "Mullah Dadullah Front",
+        "coordinates": [69.27781769073995, 34.57279967038534],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+        "article": "https://www.moderninsurgent.org/post/mullah-dadullah-front",
+        "status": "inactive",
+	"size": "somewhat_small"
+    }
 ]
