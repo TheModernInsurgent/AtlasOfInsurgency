@@ -1558,5 +1558,14 @@
         "article": "https://www.moderninsurgent.org/post/indigenous-guard",
         "status": "nonviolent",
 	"size": "somewhat_small"
-    }
+    },
+{
+    "name": "Sample Analysis",
+    "coordinates": [-6.490219, 54.597285],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Orange_Order.png/800px-Orange_Order.png",
+    "article": "moderninsurgent.org",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+}
 ]
