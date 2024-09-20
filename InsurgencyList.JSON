@@ -1560,10 +1560,19 @@
 	"size": "somewhat_small"
     },
 {
-    "name": "Sample Analysis",
-    "coordinates": [-6.490219, 54.597285],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Orange_Order.png/800px-Orange_Order.png",
-    "article": "moderninsurgent.org",
+    "name": "MINUSMA, Mali, & Wagner Group",
+    "coordinates": [-6.945727500957374, 11.369267608324703],
+    "logo": "https://static.wixstatic.com/media/c24061_c550f366e7344dc4b8d26985e269728e~mv2.png/v1/crop/x_41,y_261,w_994,h_545/fill/w_993,h_545,al_c,q_90,enc_auto/A330BAA6-8CE6-40DE-AF17-B55493FF8054_PNG.png",
+    "article": "https://www.moderninsurgent.org/na-issue-1",
+    "status": "nonviolent",
+    "size": "somewhat_large",
+    "shape": "square"
+},
+{
+    "name": "Oath Keepers & Future of the US Militia Movement",
+    "coordinates": [-116.89189917733555, 39.39347701728174],
+    "logo": "https://static.wixstatic.com/media/c24061_b05836b92c8f42ebb9f4298956e91fe2~mv2.jpg/v1/crop/x_0,y_0,w_976,h_553/fill/w_976,h_551,al_c,q_85,enc_auto/74C78D72-B2B8-4802-8048-667C132FAA44.jpg",
+    "article": "https://www.moderninsurgent.org/na-issue-1",
     "status": "nonviolent",
     "size": "somewhat_large",
     "shape": "square"
