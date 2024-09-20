@@ -106,7 +106,7 @@
     {
         "name": "Houthi Movement",
         "coordinates": [44.1874137055769, 15.358922018745387],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ansarullah_Flag_Vector.svg",
+        "logo": "https://en.wikipedia.org/wiki/Houthi_movement#/media/File:Slogan_of_the_Houthi_Movement.svg",
         "article": "https://www.moderninsurgent.org/post/houthi-movement",
         "status": "violent",
 	"size": "large"
@@ -138,7 +138,7 @@
     {
         "name": "Hay'at Tahrir al-Sham (HTS)",
         "coordinates": [36.64209360079086, 35.93059973462643],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Hayat_Tahrir_al-Sham.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d8/Hayyat_Tahrir_al-Sham_logo.jpg",
         "article": "https://www.moderninsurgent.org/post/hay-at-tahrir-al-sham-hts",
         "status": "violent",
 	"size": "somewhat_small"
@@ -178,7 +178,7 @@
     {
         "name": "Komala Party of Iranian Kurdistan",
         "coordinates": [47.13473491693141, 35.38491359915628],
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/05/The_Official_Logo_Of_Komala.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/The_Official_Logo_Of_Komala.png",
         "article": "https://www.moderninsurgent.org/post/komala-party-of-iranian-kurdistan",
         "status": "violent",
 	"size": "somewhat_large"
@@ -234,7 +234,7 @@
     {
         "name": "Armed Forces of South Ossetia (AFSO)",
         "coordinates": [44.11404547203596, 42.38279847847601],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Coat_of_arms_of_South_Ossetia.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Armed_Forces_of_South_Ossetia.gif",
         "article": "https://www.moderninsurgent.org/post/armed-forces-of-south-ossetia-afso",
         "status": "violent",
 	"size": "somewhat_large"
@@ -298,7 +298,7 @@
     {
         "name": "Wagner Group",
         "coordinates": [37.6191539582028, 55.74957773433265],
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_the_Wagner_Group_%28official%29.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_the_Wagner_Group_%28since_April_2023%29.svg",
         "article": "https://www.moderninsurgent.org/post/wagner-group",
         "status": "violent",
 	"size": "large"
@@ -330,7 +330,7 @@
     {
         "name": "St. Pauli Football Club Ultras",
         "coordinates": [9.967632811342943, 53.55469738325404],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/FC_St_Pauli_skull_and_crossbones.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/FC_St._Pauli_logo_%282018%29.svg",
         "article": "https://www.moderninsurgent.org/post/st-pauli-football-club-ultras",
         "status": "nonviolent",
 	"size": "very_small"
@@ -389,14 +389,6 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Logo_of_Identitarian_Generation_2.svg",
         "article": "https://www.moderninsurgent.org/post/generation-identity-gi",
         "status": "nonviolent",
-	"size": "somewhat_small"
-    },
-    {
-        "name": "Animal Liberation Front (ALF)",
-        "coordinates": [-1.2582336253813236, 51.75187530203661],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/ALF_logo.svg",
-        "article": "https://www.moderninsurgent.org/post/animal-liberation-front-alf",
-        "status": "violent",
 	"size": "somewhat_small"
     },
     {
@@ -466,7 +458,7 @@
     {
         "name": "Communist Party of Burma (CPB)",
         "coordinates": [98.81891086223732, 22.45818912058623],
-        "logo": "https://upload.wikimedia.org/wikipedia/en/4/41/Communist_Party_of_Burma_logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Communist_Party_of_Burma_flag_%281939-1946%29_and_%281946-1970%29.svg",
         "article": "https://www.moderninsurgent.org/post/communist-party-of-burma-cpb",
         "status": "violent",
 	"size": "somewhat_large"
@@ -474,7 +466,7 @@
     {
         "name": "Abu Sayyaf (Islamic State - East Asia Province)",
         "coordinates": [124.32535602802359, 7.421891678531082],
-        "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/ISIL_East_Asia.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/86/Islamic_State_-_East_Asia_Province.svg",
         "article": "https://www.moderninsurgent.org/post/abu-sayyaf-islamic-state-east-asia-province",
         "status": "violent",
 	"size": "large"
@@ -514,7 +506,7 @@
     {
         "name": "Mujahideen Shura Council in the Environs of Jerusalem",
         "coordinates": [34.243250915271275, 31.28567159793135],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/AQMI_Flag_asymmetric.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Islamic_State_flag.svg",
         "article": "https://www.moderninsurgent.org/post/mujahideen-shura-council-in-the-environs-of-jerusalem",
         "status": "inactive",
 	"size": "somewhat_small"
@@ -554,7 +546,7 @@
     {
         "name": "Hamas",
         "coordinates": [34.46276117505538, 31.49837506420981],
-        "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Hamas_logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/55/Emblem_of_Hamas.svg",
         "article": "https://www.moderninsurgent.org/post/hamas",
         "status": "violent",
 	"size": "large"
@@ -562,7 +554,7 @@
     {
         "name": "Islamic State (IS/ISIS/ISIL)",
         "coordinates": [40.65852421039664, 34.314413127964094],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/AQMI_Flag_asymmetric.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Islamic_State_flag.svg",
         "article": "https://www.moderninsurgent.org/post/islamic-state-is-isis-isil",
         "status": "violent",
 	"size": "large"
@@ -586,7 +578,7 @@
     {
         "name": "Izz al-Din al-Qassam Brigades (IQB)",
         "coordinates": [34.398051008340126, 31.43604397714877],
-        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d8/Alqassam_logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Hamas.svg",
         "article": "https://www.moderninsurgent.org/post/izz-al-din-al-qassam-brigades",
         "status": "violent",
 	"size": "somewhat_small"
@@ -642,7 +634,7 @@
     {
         "name": "Islamic State in Libya (ISL)",
         "coordinates": [13.451042054919, 26.15784409949635],
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/10/ISIL_Libya.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Islamic_State_–_Libya_Province.svg",
         "article": "https://www.moderninsurgent.org/post/islamic-state-in-libya-isl",
         "status": "violent",
 	"size": "somewhat_large"
@@ -802,7 +794,7 @@
     {
         "name": "Polisario Front (PF)",
         "coordinates": [-13.50982043099401, 24.56646238330759],
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e8/Seal_of_Polisario_Front.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8d/Seal_of_the_POLISARIO_Front.svg",
         "article": "https://www.moderninsurgent.org/post/polisario-front",
         "status": "violent",
 	"size": "somewhat_large"
@@ -882,7 +874,7 @@
     {
         "name": "Confederation of Indigenous Nationalities of Ecuador (CONAIE)",
         "coordinates": [-78.46557415559349, -0.18247369140591904],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bandera_de_la_CONAIE.svg",
+        "logo": "http://www.fanshop-online.de/images/e/ec_indg1.gif",
         "article": "https://www.moderninsurgent.org/post/confederation-of-indigenous-nationalities-of-ecuador-conaie",
         "status": "nonviolent",
 	"size": "somewhat_small"
@@ -930,7 +922,7 @@
     {
         "name": "Sea Shepherd Conservation Society (SSCS)",
         "coordinates": [-122.81906464279045, 48.58627616685863],
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/29/Sea_Shepherd_Conservation_Society.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sea_Shepherd_Conservation_Society_LOGO.png",
         "article": "https://www.moderninsurgent.org/post/sea-shepherd-conservation-society-sscs",
         "status": "violent",
 	"size": "somewhat_small"
@@ -1418,7 +1410,7 @@
     {
         "name": "Young Army Cadets National Movement (Yunarmiya)",
         "coordinates": [37.52691126007584, 55.7770058530607],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_the_Young_Army.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4f/Yunarmiya.svg",
         "article": "https://www.moderninsurgent.org/post/young-army-cadets-national-movement-yunarmiya",
         "status": "nonviolent",
 	"size": "very_small"
@@ -1546,7 +1538,7 @@
  {
         "name": "Indigenous Guard",
         "coordinates": [-76.61715337061239, 2.446210598678875],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Banner_of_the_Qulla_Suyu.svg/1920px-Banner_of_the_Qulla_Suyu.svg.png",
+        "logo": "https://static.wixstatic.com/media/f9ef56_b1385600d98b482bbb4ca7d1315790bc~mv2.jpeg",
         "article": "https://www.moderninsurgent.org/post/indigenous-guard",
         "status": "nonviolent",
 	"size": "somewhat_small"
