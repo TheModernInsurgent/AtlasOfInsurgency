@@ -523,7 +523,7 @@
         "name": "Popular Front for the Liberation of Palestine (PFLP)",
         "coordinates": [34.33285121724336, 31.38500261601969],
         "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/Logo_of_PFLP.png",
-        "article": "Popular Front for the Liberation of Palestine (PFLP)",
+        "article": "https://www.moderninsurgent.org/post/popular-front-for-the-liberation-of-palestine-pflp-1",
         "status": "violent",
 	"size": "somewhat_small"
     },
@@ -1799,11 +1799,20 @@
 	"size": "somewhat_small"
     },
    {
-        "name": "Mullah Dadullah Front",
-        "coordinates": [69.27781769073995, 34.57279967038534],
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
-        "article": "https://www.moderninsurgent.org/post/mullah-dadullah-front",
-        "status": "inactive",
-	"size": "somewhat_small"
+        "name": "Qanon",
+        "coordinates": [-77.03037227638981, 38.908153541430146],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/QAnon_logo.png",
+        "article": "https://www.moderninsurgent.org/post/qanon",
+        "status": "violent",
+	"size": "somewhat_large"
+    },
+   {
+        "name": "Revolutionary Forces of the G9 Family and Allies",
+        "coordinates": [-72.29964754229249, 18.551940507551112],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Seal_of_the_Revolutionary_Forces_of_the_G9_Family_and_Allies.svg",
+        "article": "https://www.moderninsurgent.org/post/revolutionary-forces-of-the-g9-family-and-allies",
+        "status": "violent",
+	"size": "somewhat_large"
     }
+
 ]
